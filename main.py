@@ -5,8 +5,4 @@ print("Made 50 dollar")
 print("Made 100 dollar")
 bla bla bla
 swatch the housee sooon
-ooooooo
-noooooo
-yaaaaaa
-udddd
-found
+on ganggg
