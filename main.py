@@ -1,9 +1,6 @@
 print("Hello World")
 print("The World is Yours")
-
 print("take profit")
-
 print("Made 50 dollar")
-
 bla bla bla
-swatch in the housee sooon
+swatch the housee sooon
