@@ -2,6 +2,10 @@ import random
 import string
 import re
 
+branch-29
+boom
+it done
+=======
 def generate_password(length, use_upper, use_lower, use_digits, use_symbols):
     characters = ""
 
@@ -152,4 +156,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    m
