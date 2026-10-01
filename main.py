@@ -5,4 +5,4 @@ print("Made 50 dollar")
 print("Made 100 dollar")
 
 boom
-
+it done
